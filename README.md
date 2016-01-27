@@ -1,6 +1,6 @@
 # A blog
 
-This is where Kavit writes about his stuff
+This is where I will write about my stuff.
 
 ## License
 
