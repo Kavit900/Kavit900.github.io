@@ -39,7 +39,7 @@ swap
 
 ### Code in Java
 
-```
+```python
 public int[] nextPermutation(int[] nums) {
     if(nums == null || nums.length<2)
         return;
