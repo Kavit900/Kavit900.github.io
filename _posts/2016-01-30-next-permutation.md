@@ -39,7 +39,7 @@ swap
 
 ### Code in Java
 
-```python
+{% highlight css linenos %}
 public int[] nextPermutation(int[] nums) {
     if(nums == null || nums.length<2)
         return;
@@ -85,4 +85,4 @@ public int[] reverse(int[] nums, int left, int right){
     }
     return nums;
 }
-```
+{% endhighlight %}
