@@ -14,40 +14,11 @@ The condition provided is replacement must be in-place and do not allocate extra
 
 1. Scan from right to left, find the element that is less than it's previous one.
 
-```
-4 5 6 3 2 1
-```
-```
-  |
-```
-```
-  p
-```
-
 2. Scan from right to left, find the first element that is greater than p.
 
-```
-4 5 6 3 2 1
-```
-```
-    |
-```
-```
-    q
-```
-
 3. Swap p and q now.
-```
-4 5 6 3 2 1
-```
-```
-swap
-```
-```
-4 6 5 3 2 1 
-```
 
-4. Reverse the elements from [p+1, length-1];
+4. Reverse the elements from [p+1, length-1]
 
 ### Code in Java
 
