@@ -12,9 +12,9 @@ The condition provided is replacement must be in-place and do not allocate extra
 
 ## Algorithm
 
-1. Scan from right to left, find the element that is less than it's previous one.
+1. Scan from right to left, find the element that is less than it's previous one, save the position of the element in p variable.
 
-2. Scan from right to left, find the first element that is greater than p.
+2. Scan from right to left, find the first element that is greater than p, save the position of the element in q variable.
 
 3. Swap p and q now.
 
