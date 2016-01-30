@@ -16,7 +16,11 @@ The condition provided is replacement must be in-place and do not allocate extra
 
 ```
 4 5 6 3 2 1
+```
+```
   |
+```
+```
   p
 ```
 
@@ -24,14 +28,22 @@ The condition provided is replacement must be in-place and do not allocate extra
 
 ```
 4 5 6 3 2 1
+```
+```
     |
+```
+```
     q
 ```
 
 3. Swap p and q now.
 ```
 4 5 6 3 2 1
+```
+```
 swap
+```
+```
 4 6 5 3 2 1 
 ```
 
