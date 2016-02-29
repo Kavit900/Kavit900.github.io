@@ -1,7 +1,7 @@
 title:            "@kavit"
 url:              http://kavit900.github.io
 permalink:        pretty
-highlighter:      rouge
+highlighter:      pygments
 google_analytics: UA-72949752-1
 timezone:         America/New_York
 sass:
