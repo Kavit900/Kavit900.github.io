@@ -16,8 +16,11 @@ So according to the problem we had to find the number of the row that would get 
 So basically on investigation you will see that the list is formed like this:-
 
 > 1st row - 1 item.
+</br>
 > 2nd row - 2 items.
+</br>
 > 3rd row - 3 items.
+</br>
 > 4th row - 4 items.
 
 In short if we clearly see then, after 1st row total elements is equal to 1, 2nd row is 3, 3rd row is 6... 
